@@ -124,3 +124,5 @@ python data/generate_pdf.py
 ```
 
 After regenerating, re-run the corresponding ingest script.
+
+Live Demo: {https://rag-telecom-chatbo-jowvmnxgkyovzpvsmdncys.streamlit.app/}
